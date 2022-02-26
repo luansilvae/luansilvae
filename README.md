@@ -2,7 +2,7 @@
 
 <img style="" align="right" width="30%" src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif">
 
-[![Twitter Badge](https://img.shields.io/badge/-@luansilv4e-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/luansilv4e)](https://twitter.com/luansilv4e) 
+[![Twitter Badge](https://img.shields.io/badge/-@luzeraSL-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/luzeraSL)](https://twitter.com/luzeraSL) 
 [![Linkedin Badge](https://img.shields.io/badge/-Luan%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luansilvae/)](https://www.linkedin.com/in/luansilvae/) 
 [![Gmail Badge](https://img.shields.io/badge/-luansilvae27@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:launsilvae27@gmail.com)](mailto:luansilvae27@gmail.com)
 
