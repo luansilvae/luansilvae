@@ -1,13 +1,13 @@
-# Luan Silva - Desenvolvedor Full-Stack
+# Luan Silva - Desenvolvedor Front-End
 
 [![Twitter Badge](https://img.shields.io/badge/-@luzeraSL-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/luzeraSL)](https://twitter.com/luzeraSL) 
 [![Linkedin Badge](https://img.shields.io/badge/-Luan%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luansilvae/)](https://www.linkedin.com/in/luansilvae/) 
 [![Gmail Badge](https://img.shields.io/badge/-luansilvae27@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:launsilvae27@gmail.com)](mailto:luansilvae27@gmail.com)
 
-- 💼 <samp>Buscando oportunidade como Desenvolvedor Web.
+- 💼 <samp>Desenvolvedor Front-End.
 - 📝 <samp>Estudando Typescript, React, NextJS.
-- 🎓 <samp>Formação técnica em Informática.
-- 🖥 <samp>Cursando Análise e Desenvolvimento de Sistemas.
+- 🎓 <samp>Técnico em Informática.
+- 🎓 <samp>Análise e Desenvolvimento de Sistemas.
  
 <div>
   <img  width="250px"  align="top" src="https://github-readme-stats-gamma-beige.vercel.app/api/top-langs/?username=luansilvae&theme=omni" />
